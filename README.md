@@ -1,2 +1,2 @@
 # PyFetch
-Small, easy to use, database.
+Small, easy to use, python database.
