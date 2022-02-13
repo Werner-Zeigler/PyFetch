@@ -1,6 +1,6 @@
 from distutils.core import setup
 setup(
-  name = 'Pyfetch',         # How you named your package folder (MyLib)
+  name = 'PyFetch',         # How you named your package folder (MyLib)
   packages = ['PyFetch'],   # Chose the same as "name"
   version = '2.0',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
