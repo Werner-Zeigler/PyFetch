@@ -7,7 +7,7 @@ setup(
   description = 'Small, easy to use, python database.',   # Give a short description about your library
   author = 'Mathieu Courcier-Flores',                   # Type in your name
   author_email = 'Mathieucourcierflores@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
+  url = 'https://pyfetch.netlify.app/',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['Python', 'Easy', 'Database'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
